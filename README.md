@@ -1,3 +1,5 @@
+# Web-Search-Engine
+
 A full-stack web search engine built with Python and Flask. This system features a custom web crawler, an inverted indexer with Porter Stemming, and a ranked search engine based on the Vector Space Model (TF-IDF). It also includes an AI-powered chatbot integrated with the search index.
 
 ## Features
