@@ -33,8 +33,7 @@ A full-stack web search engine built with Python and Flask. This system features
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
-    cd <project-directory>
+    git clone https://github.com/Yesducky/Web-Search-Engine.git
     ```
 
 2.  **Create and Activate Virtual Environment**
