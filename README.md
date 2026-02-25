@@ -92,9 +92,6 @@ A full-stack web search engine built with Python and Flask. This system features
 
 ## Screenshots
 
-*(Ensure you place image files named fig1.png, fig2.png, etc., inside a folder named `screenshots` in your repository)*
-
-
 ### User Interface & Crawling
 <img width="2048" height="1280" alt="image" src="https://github.com/user-attachments/assets/eeb254b5-cca2-4a2d-b717-00e6c43c7e85" />
 *Spider page initialization.*
@@ -124,5 +121,7 @@ A full-stack web search engine built with Python and Flask. This system features
 <img width="1482" height="1390" alt="image" src="https://github.com/user-attachments/assets/b12b80eb-5add-428a-970b-09e36feb4238" />
 *Chatbot interface responding to user inquiries using indexed context.*
 
+### Demo
+https://www.youtube.com/watch?v=ZAYu4pSWqa4
 
 This project is part of the COMP4321 Course Project.
